@@ -1,0 +1,15 @@
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\18-DatetimeMath\bin\Debug\net6.0\18-DatetimeMath.exe
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\18-DatetimeMath\bin\Debug\net6.0\18-DatetimeMath.deps.json
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\18-DatetimeMath\bin\Debug\net6.0\18-DatetimeMath.runtimeconfig.json
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\18-DatetimeMath\bin\Debug\net6.0\18-DatetimeMath.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\18-DatetimeMath\bin\Debug\net6.0\18-DatetimeMath.pdb
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\18-DatetimeMath\obj\Debug\net6.0\18-DatetimeMath.csproj.AssemblyReference.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\18-DatetimeMath\obj\Debug\net6.0\18-DatetimeMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\18-DatetimeMath\obj\Debug\net6.0\18-DatetimeMath.AssemblyInfoInputs.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\18-DatetimeMath\obj\Debug\net6.0\18-DatetimeMath.AssemblyInfo.cs
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\18-DatetimeMath\obj\Debug\net6.0\18-DatetimeMath.csproj.CoreCompileInputs.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\18-DatetimeMath\obj\Debug\net6.0\18-DatetimeMath.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\18-DatetimeMath\obj\Debug\net6.0\refint\18-DatetimeMath.dll
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\18-DatetimeMath\obj\Debug\net6.0\18-DatetimeMath.pdb
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\18-DatetimeMath\obj\Debug\net6.0\18-DatetimeMath.genruntimeconfig.cache
+C:\Users\MAHMUT CAN\OneDrive\Belgeler\VSCode\Patika.NetCore\C#\18-DatetimeMath\obj\Debug\net6.0\ref\18-DatetimeMath.dll
